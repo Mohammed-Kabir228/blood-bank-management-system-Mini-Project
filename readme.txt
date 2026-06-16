@@ -105,6 +105,6 @@ This project is intended for educational and learning purposes only. It is desig
 
 ## 👨‍💻 Author
 
-**Waihaad Ahmed**
+**Mohammed Kabir**
 
 ⭐ If you find this project useful, consider giving it a star on GitHub.
